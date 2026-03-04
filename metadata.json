@@ -1,0 +1,5 @@
+{
+  "name": "CyberExtract",
+  "description": "Lead Extraction Neural Interface with real-time telemetry and geospatial data visualization.",
+  "requestFramePermissions": []
+}
